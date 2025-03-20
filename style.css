@@ -60,3 +60,11 @@ button{
     border-radius: 5px;
     cursor: pointer;
 }
+
+button:active{
+    background-color: #71888f;
+}
+
+button:hover{
+    background-color: #71888f;
+}
